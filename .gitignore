@@ -1,6 +1,7 @@
 *~
 .*.swp
 .*~
+.*
 logs/
 logs/*.log
 lib/
